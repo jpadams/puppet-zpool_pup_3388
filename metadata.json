@@ -1,0 +1,11 @@
+{
+  "name": "puppetlabs-zpool_pup_3388",
+  "version": "0.1.0",
+  "source": "https://support.puppetlabs.com",
+  "author": "puppetlabs",
+  "license": "Apache 2.0",
+  "summary": "This module provides a hotfix for PUP-3388",
+  "description": "This module provides the zpool_pup_3388 zpool provider as a hotfix for PUP-3388",
+  "project_page": "https://jira.puppetlabs.com/browse/PUP-3388",
+  "dependencies": []
+}

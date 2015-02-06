@@ -5,5 +5,5 @@ This adds a new provider called 'hotfixzpool' that allows you to use the new pro
 To implement this, install this module in your basemodulepath, and add this resource default to your site.pp for each environment:
 
 Zpool {
-  provider => 'hotfixzpool',
+  provider => 'zpool\_pup\_3388',
 }

@@ -1,4 +1,4 @@
-Puppet::Type.type(:zpool).provide(:hotfixzpool) do
+Puppet::Type.type(:zpool).provide(:zpool_pup_3388) do
   desc "Puppet 4 Provider for zpool for use in < 4.0."
 
   commands :zpool => 'zpool'
